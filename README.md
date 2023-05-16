@@ -1,3 +1,3 @@
 # market_segmentation
 
-done market segmentation analysis to achieve your company goal,give best quality product to our customers . 
+done market segmentation analysis to achieve your company goal,and gives best quality product to our customers . 
